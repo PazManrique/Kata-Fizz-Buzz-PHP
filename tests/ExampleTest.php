@@ -12,8 +12,5 @@ class ExampleTest extends TestCase {
 
 		$this->assertEquals(4, 4);
 	}
-
-
 }
-
 
